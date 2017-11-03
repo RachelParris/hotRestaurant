@@ -1,0 +1,13 @@
+.center {
+  text-align: center;
+}
+.panel-heading {
+  background-color: #eee;
+}
+.panel-body {
+  border: 1px solid #eee;
+}
+input[type=text] {
+  margin: 5px;
+  width: 60%;
+}
